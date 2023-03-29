@@ -1,4 +1,4 @@
-# Web_Calculator
+# Calculator-WebApp
 ### Short description
 >A simple pure javascript calculator. 
 
